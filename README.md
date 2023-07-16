@@ -3,6 +3,7 @@
 A collection of useful commands for computer troubleshooting.
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Donate with PayPal](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif)](https://www.paypal.com/donate/?hosted_button_id=U3VMA6UAZLUAN)
 
 ## Table of Contents
 
